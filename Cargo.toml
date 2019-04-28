@@ -1,0 +1,7 @@
+[package]
+name = "map_reduce"
+version = "0.1.0"
+authors = ["Aunpyz <aunnop_kattiyanet@hotmail.com>"]
+edition = "2018"
+
+[dependencies]
